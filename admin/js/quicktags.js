@@ -1,0 +1,1 @@
+QTags.addButton("seguros_promo_quicktag","Seguros Promo",seguros_promo_conf_editor),QTagsChip.addButton("seguros_promo_quicktag","Seguros Promo Chip",seguros_promo_chip_conf_editor);
